@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-mdenv
+mdvenv
 
 # C extensions
 *.so
