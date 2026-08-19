@@ -2,6 +2,12 @@
 
 A minimal demo web application that displays a greeting message, served from a FastAPI backend and rendered by a React (Vite) frontend.
 
+## Built With
+
+- **Backend:** FastAPI (Python), uvicorn
+- **Frontend:** React (Vite)
+- **Assisted by:** Claude Code
+
 ## Structure
 
 - `backend/` — FastAPI app (`main.py`) with a health check endpoint (`GET /` → `{"status": "OK"}`).
